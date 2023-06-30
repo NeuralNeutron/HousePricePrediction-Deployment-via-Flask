@@ -1,4 +1,4 @@
-# HousePricePrediction-Deployment-via-Flask
+# HousePricePrediction-Using-Random-Forest-Reg-Deployment-via-Flask
 
 ## Disclaimer :  Usually Data Science utilizes visualization aids as Jupyter notebook to help understand accuracy, loss and whether there is any risk of overfitting in the model. For this project, I have omitted this, as the main focus is to understand how to establish packages ready for deployment. This is due to the code structure being a bit different in notebooks vs IDE and IDLE platforms.
 
