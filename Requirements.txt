@@ -6,3 +6,4 @@ pickle
 numpy
 pickle_compression.pickling
 flask
+matplotlib.plotly
