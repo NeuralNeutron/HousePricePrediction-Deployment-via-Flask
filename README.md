@@ -5,6 +5,8 @@
 ## The Flask deployment is very simple, and its initial focus as a Data Scientist is how to provide a Minimum Viable Product.
 
 ## We have imported the RandomForestRegressor as it is best suited for numerical predictions. I have not explored tuning the hyperparameters due to my local machine not coping. However, you can play with an tweak: "Maximum Depth of Trees", "Increase or Decrease the Number of Estimators", "Specify the Number of Features to be Included at each Node Split".
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+
 
 ## Against best practice, I cut off my tree depth at 6, due to size and the focus being on deployment.
 
