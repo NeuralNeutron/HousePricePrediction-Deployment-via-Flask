@@ -12,9 +12,8 @@ https://www.keboola.com/blog/random-forest-regression
 
 # ADVICE ON IMPROVEMENTS 
 
-## I would, first create the breakdown in Jupyter notebooks to explore. Then I would, tweak and play with hyperparameters, finally I would create the files in this directory for deployment.
 ## If interested, further development of the end user API would be a interesting development.
 
 # FURTHER INSIGHTS
 
-## Many companies use XGboost rather than Sklearn RandomForestRegressor. However, for the most part these are interchangeable. It would be wise to compare performance of Linear Regression, Decision Tree Regression and Random Forest Regression to determine the best model to use for the problem you are trying to solve. Be cautious to explore the strengths and weaknesses of each of these, to determine your choice
+## The choice of model used should reflect the accuracy you are able to obtain.
